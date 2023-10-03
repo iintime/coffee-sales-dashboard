@@ -3,7 +3,7 @@ Coffee Sales Dashboard by Microsoft Excel
 
 Dataset : https://github.com/mochen862/excel-project-coffee-sales/blob/main/coffeeOrdersData.xlsx
 
-## Step
+## Steps
   1. Import data
   2. Gathering data by using 'XLOOKUP'
   3. Make a dashboard
